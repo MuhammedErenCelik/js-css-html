@@ -1,0 +1,17 @@
+body{text-align: center;}
+
+#b{
+    background-color: tomato;width: 100%;height: 40px;
+}
+#l{
+    background-color: lightblue;width: 25%;height: 80%;float: left;
+}
+#t{
+     width: 50%;height: 80%;float:left;
+}
+#c{
+    background-color: lightblue;width: 25%;height: 80%;float: left;
+}
+#k{
+    background-color: darkgray;width: 100%;height: 40px;clear: both;
+}

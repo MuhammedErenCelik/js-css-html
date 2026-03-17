@@ -1,0 +1,5 @@
+body{background-color: purple;}
+ a:link {color:orange; font-size:22px;}
+ a:visited{color:rgb(255, 251, 27);}
+ a:hover{background-color:white; cursor:hand; }
+ a:active{font-size: 30px;} 
