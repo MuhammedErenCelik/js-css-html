@@ -1,0 +1,31 @@
+.orta
+{
+text-align: center;
+ background-color:gray;
+ width: 600px;
+ height: 800px;
+ padding: 15px;
+ display:block;
+ float: left;
+ position:absolute; left:450px;
+  box-shadow: 0px 0xpx 25px rgba(0, 0, 0, 8);
+ backdrop-filter: blur(6px);
+ transform: scale(1.02);
+ }
+
+
+p{
+    font-size: 14px; font-family: Arial; line-height: 2; text-align: left;
+}
+
+
+ul{
+    text-align: left;
+}
+
+
+a{
+    color: red;text-align: left;
+}
+
+ 

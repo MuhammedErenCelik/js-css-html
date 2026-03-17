@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <body onload="reklamKaldir()">
+ <div id="reklam">
+ <img src="deepar.jpg">
+ </div>
+ <script>
+    function reklamKaldir(){
+ var d = new Date();
+ var saniye=d.getSeconds();
+ if(saniye >= 5){
+ document.getElementById("reklam").style.display="none";
+ }
+}
+ </script>
+
+</body>
+</body>
+</html>
